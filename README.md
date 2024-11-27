@@ -23,3 +23,5 @@ Data related to our summarization experiments are present in *Data/ICF* folder.
 ## CODE for MCQAs Evaluation
 **mcqa_generation_eval.ipynb:** processing the human evaluation results for MCQAs generation and query API LLMs to evaluate the MCQAs' quality
 
+## Generated MCQAs
+*mcqa* folder:* all MCQAs generated based on the selected ICFs for studies listed in **mcqa_icfs.cvs:**
